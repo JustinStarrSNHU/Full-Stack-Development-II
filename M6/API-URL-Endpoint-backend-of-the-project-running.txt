@@ -1,0 +1,7 @@
+API URL / Endpoint: backend of the project running:
+
+https://01rgs5x6qc.execute-api.us-east-1.amazonaws.com/api
+
+https://01rgs5x6qc.execute-api.us-east-1.amazonaws.com/api/Questions
+
+https://01rgs5x6qc.execute-api.us-east-1.amazonaws.com/api/Answers

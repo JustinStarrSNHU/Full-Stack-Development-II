@@ -1,0 +1,4 @@
+S3 URL / Endpoint: Frontend of the project hosted on S3:
+
+http://justin.starr.myawsbucket.s3-website-us-east-1.amazonaws.com/
+
