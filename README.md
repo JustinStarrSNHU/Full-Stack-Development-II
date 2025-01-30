@@ -16,7 +16,7 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Hello, and welcome to the SDLC Repository of my Academic Projects🖐️
+# Hello, and welcome to the Full Stack Development II Repository of my Academic Projects🖐️
 
 Learned how to build a full stack MEAN application and deploy it in the cloud. Began by configuring both the front and back-end applications, containerized the application using docker and docker compose in preparation of web deployment using Amazon AWS Web Services. Fully migrated the full stack application using S3, Lambda functions, API Gateway, and DynamoDB for the backend database. 
 
